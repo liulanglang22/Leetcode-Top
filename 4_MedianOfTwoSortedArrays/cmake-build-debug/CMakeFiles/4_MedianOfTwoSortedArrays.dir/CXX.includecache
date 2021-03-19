@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/C++/Leetcode-Top/4_MedianOfTwoSortedArrays/main.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+

@@ -1,0 +1,3 @@
+"D:\Program Files\JetBrains\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\53_MaximumSubarray.dir/objects.a
+C:\PROGRA~1\mingw64\bin\ar.exe cr CMakeFiles\53_MaximumSubarray.dir/objects.a @CMakeFiles\53_MaximumSubarray.dir\objects1.rsp
+C:\PROGRA~1\mingw64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\53_MaximumSubarray.dir/objects.a -Wl,--no-whole-archive  -o 53_MaximumSubarray.exe -Wl,--out-implib,lib53_MaximumSubarray.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\53_MaximumSubarray.dir\linklibs.rsp
