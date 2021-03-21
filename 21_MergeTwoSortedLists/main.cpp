@@ -1,4 +1,5 @@
 #include <iostream>
+using namespace std;
 struct ListNode {
     int val;
     ListNode *next;
@@ -13,6 +14,7 @@ public:
     }
 };
 int main() {
-    std::cout << "Hello, World!" << std::endl;
+
+
     return 0;
 }
